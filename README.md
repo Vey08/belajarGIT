@@ -9,14 +9,15 @@ Daftar tugas / branch
   7. Tugas-finalProject
 
 Daftar perintah GIT
-  - Repository Git: Tempat dimana semua file dan riwayat perubahan disimpan.
-  - Commit: Proses menyimpan perubahan ke dalam repository Git. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan.
-  - Branch: Salah satu cara untuk memisahkan perubahan dalam repository Git. Cabang bisa diperiksa, diedit, dan digabungkan kembali ke cabang utama.
-  - Status: Digunakan untuk mengecek status repository lokal.
-  - Merge: Proses menggabungkan perubahan dari satu cabang ke cabang lain.
-  - Push: Proses mengupload perubahan dari lokal ke repository Git yang terhubung.
-  - Pull: Proses mengunduh perubahan dari repository Git yang terhubung ke lokal.
-  - Remote: Repository Git yang berada pada server atau jaringan yang berbeda dari lokal.
-  - Staging Area: Tempat untuk menyimpan perubahan sebelum di-commit.
-  - Index: Tempat menyimpan perubahan yang akan di-commit.
-  - HEAD: Pointer yang menunjukkan versi terbaru dari repository Git.
+ - Git config : Bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, misalnya email/username.
+ - Git init   : Perintah ini digunakan untuk membuat repositori baru.
+ - Git add    : Perintah git add bisa digunakan untuk menambahkan file ke index.
+ - Git clone  : Perintah git clone digunakan untuk checkout/menduplikat repositori.
+ - Git commit : Perintah git commit digunakan untuk melakukan commit pada perubahan ke head.
+ - Git status : Perintah git status menampilkan daftar file yang berubah bersama dengan file yang ingin di tambahkan atau di-commit.
+ - Git push   : Push akan mengirimkan perubahan ke master branch dari remote repository yang berhubungan dengan direktori kerja.
+ - Git checkout : Perintah git checkout bisa digunakan untuk membuat branch atau untuk berpindah diantaranya.
+ - Git remote : Perintah git remote akan membuat user terhubung ke remote repository.
+ - Git brach  : Perintah git branch bisa digunakan untuk me-list, membuat atau menghapus branch.
+ - Git pull   : Untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal.
+ - Git merge  : Perintah merge digunakan untuk menggabungkan sebuah branch ke branch aktif.
