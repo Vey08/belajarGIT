@@ -18,6 +18,6 @@ Daftar perintah GIT
  - Git push   : Push akan mengirimkan perubahan ke master branch dari remote repository yang berhubungan dengan direktori kerja.
  - Git checkout : Perintah git checkout bisa digunakan untuk membuat branch atau untuk berpindah diantaranya.
  - Git remote : Perintah git remote akan membuat user terhubung ke remote repository.
- - Git brach  : Perintah git branch bisa digunakan untuk me-list, membuat atau menghapus branch.
+ - Git branch  : Perintah git branch bisa digunakan untuk me-list, membuat atau menghapus branch.
  - Git pull   : Untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal.
  - Git merge  : Perintah merge digunakan untuk menggabungkan sebuah branch ke branch aktif.
